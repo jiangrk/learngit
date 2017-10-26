@@ -1,4 +1,4 @@
 Git is a distributed version control system
 Git is free software under the GPL
 Git has a mutable index called stage
-Creating a good1 and bad branch is quick
+Creating a good2 and bad branch is quick
