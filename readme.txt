@@ -5,3 +5,4 @@ Git has a mutable index called stage
 Creating a good2 and bad1 branch is quick
 good
 Creating a bad9 dd branch is quick
+windows
